@@ -35,7 +35,6 @@ html,body{
     color: #111111;
 }
 .timestamp{
-    font-weight: normal;
     font-size: 16px;
     line-height: 26px;
     color: rgba(17, 17, 17, 0.5);
